@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "usb_app.h": "c",
+        "bsp_system.h": "c"
+    },
+    "editor.fontFamily": "Maple Mono NF, Maple Mono NF CN "
+}
